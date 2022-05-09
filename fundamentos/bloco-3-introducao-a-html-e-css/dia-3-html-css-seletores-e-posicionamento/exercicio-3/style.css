@@ -1,0 +1,21 @@
+h1,p {
+    text-align: center;
+}
+
+li {
+    text-align: center;
+    list-style: none;
+}
+
+li:hover {
+    background-color: aqua;
+}
+
+li:active {
+    color: azure;
+}
+
+.paragrafo {
+    font-size: 1.5em;
+    font-weight: bold;
+}
