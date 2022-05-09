@@ -1,4 +1,6 @@
-.caixa {
+/* Exercicio 1 */
+
+/* .caixa {
     color: white;
     display: inline-block;
     line-height: 50px;
@@ -12,16 +14,57 @@
   }
   
   /* insira na classe abaixo um padding de 20px para aplicá-lo aos itens B, C e D */
-  .padding {
+  /* .padding {
     padding: 20px;
-  }
+  } */
   
   /* insira na classe abaixo uma margem de 30px para aplicá-la aos itens C e D */
-  .margin {
+  /* .margin {
     margin: 30px;
-  }
+  } */
   
   /* insira na classe abaixo uma borda com valor '5px solid black' para aplicá-la ao item D */
-  .border {
+  /* .border {
     border: 5px solid black;
+  } */ 
+
+  /* Exercicio 2 */
+
+  .super-mario {
+    width: 200px;
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .goomba {
+    width: 100px;
+    position: absolute;
+    z-index: 2;
+    top: 370px;
+    left: 80px;
+  }
+  
+  p {
+    position: absolute;
+    z-index: 5;
+    left: 268px;
+    top: 150px;
+  }
+
+  
+  .baloon {
+    position: absolute;
+    z-index: 4;
+    left: 250px;
+  }
+  
+  .speach {
+    font-size: 25px;
+  }
+  
+  .bowser {
+    width: 200px;
+    position: absolute;
+    left: 550px;
+    top: 230px
   }
