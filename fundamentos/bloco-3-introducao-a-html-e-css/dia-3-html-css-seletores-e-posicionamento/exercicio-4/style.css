@@ -1,0 +1,32 @@
+div:hover {
+    border: 2px solid black;
+}
+
+#corPrimaria {
+    background-color: brown;
+}
+
+#corSecudaria {
+    background-color: aquamarine;
+}
+
+#corComplementar {
+    background-color: blueviolet;
+    height: 70px;
+}
+
+#corEscura {
+    background-color: darkslategrey;
+}
+
+#corClara {
+    background-color: rgb(226, 230, 177);
+}
+
+h3 {
+    color: rgb(41, 36, 36);
+}
+
+.tags-impares:nth-child(2n+1) {
+    font-style: italic;
+}
