@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    background-color: rgb(49, 54, 54);
+}
+
+h1,h2,h3,p,a,li {
+    color: aliceblue;
+}
+
+#cabecalho {
+    text-align: center;
+    
+}
+
+#nav ul li {
+    display: inline-block;
+
+}
+
+.navlink {
+    margin: 20px 20px 20px 0;
+}   
+
+#nav ul {
+    align-items: center;
+}
